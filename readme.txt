@@ -28,7 +28,6 @@
 
 
     == Installation ==
-
     To install POWr Social Media Icons
     <br><br>
     1. Upload 'powr-social-media-icons.php' to the '/wp-content/plugins/' directory
@@ -43,7 +42,6 @@
 
 
     == Frequently Asked Questions ==
-
     = How can I add Social Media Icons to a blog post or page? = Just add the shortcode **[powr-social-media-icons label='MY LABEL']** (including the brackets) in your post where you'd like your Social Media Icons to appear. Then visit your page!
 
     = How can I add  Social Media Icons to my site multiple times? = Just be sure to specify different label text, eg **[powr-social-media-icons label='MY LABEL 1']**, **[powr-social-media-icons label='MY LABEL 2']** for each time you use the plugin
@@ -60,7 +58,6 @@
 
 
     == Screenshots ==
-
     1. Example
     2. Example
     3. Example
@@ -69,7 +66,6 @@
 
 
     == Upgrade Notice ==
-
     = 1.0 =
     First released version.
 
