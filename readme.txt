@@ -32,7 +32,8 @@
     To install POWr Social Media Icons
     <br><br>
     1. Upload 'powr-social-media-icons.php' to the '/wp-content/plugins/' directory
-    1. Activate the plugin through the 'Plugins' menu in WordPress
+    <br>
+    2. Activate the plugin through the 'Plugins' menu in WordPress
     <br><br>
     To add POWr Social Media Icons as a widget, go to **Appearance->Widgets**, and drag POWr Social Media Icons to where you'd like it to appear.
     <br><br>
