@@ -12,7 +12,7 @@
     Fully customized social media icons
 
     == Description ==
-    <p>
+
     POWr Social Media Icons is a mobile-responsive, fully-customizable plugin that you can edit **right in the page**.
     Add the widget to your site, or use the shortcode **[powr-social-media-icons]** to add Social Media Icons to any post.
     <br><br>
@@ -25,56 +25,37 @@
     Features:
     <br><br>
     * Add and link to any facebook, flickr, foursquare, github, google plus, instagram, linkedin, pinterest, tumblr, twitter, and youtube accounts<br> * Choose horizontal or vertical orientations<br> * Fully customize size, colors, backgrounds, and more to fit your brand<br> * Mobile responsive - designed to look great on desktop, tablets, and mobile
-    </p>
+
 
     == Installation ==
 
     To install POWr Social Media Icons
-
+    <br><br>
     1. Upload 'powr-social-media-icons.php' to the '/wp-content/plugins/' directory
     1. Activate the plugin through the 'Plugins' menu in WordPress
-
+    <br><br>
     To add POWr Social Media Icons as a widget, go to **Appearance->Widgets**, and drag POWr Social Media Icons to where you'd like it to appear.
-
+    <br><br>
     To add Social Media Icons within a post or a page, simply write the shortcode **[powr-social-media-icons label='MY LABEL']** (including the brackets) where you'd like your Social Media Icons to appear. Then visit your page!
-
+    <br><br>
     Want a more detailed tutorial? Visit [How to add Social Media Icons to your Wordpress site](http://www.powr.io/tutorials/how-to-add-social-media-icons-plugin-to-your-wordpress-site)
 
 
     == Frequently Asked Questions ==
 
-    = How can I add Social Media Icons to a blog post or page? =
+    = How can I add Social Media Icons to a blog post or page? = Just add the shortcode **[powr-social-media-icons label='MY LABEL']** (including the brackets) in your post where you'd like your Social Media Icons to appear. Then visit your page!
 
-    Just add the shortcode **[powr-social-media-icons label='MY LABEL']** (including the brackets) in your post where you'd like your Social Media Icons to appear. Then visit your page!
+    = How can I add  Social Media Icons to my site multiple times? = Just be sure to specify different label text, eg **[powr-social-media-icons label='MY LABEL 1']**, **[powr-social-media-icons label='MY LABEL 2']** for each time you use the plugin
 
+    = Why do you require me to sign up? = Signing up is what allows us to track which plugins are yours, and allows you to edit them right in your page.
 
-    = How can I add  Social Media Icons to my site multiple times? =
+    = Will my users see the settings icon in the corner of the Social Media Icons? = No! You only see the settings icon because you own the plugins. To temporarily hide it, click on your page and then type 'p + down arrow' (the letter p followed by the down arrow). You can show the icon again by typing 'p + up-arrow'.
 
-    Just be sure to specify different label text, eg **[powr-social-media-icons label='MY LABEL 1']**, **[powr-social-media-icons label='MY LABEL 2']** for each time you use the plugin
+    = I can't see the settings icon anymore, what happened? = You are just logged out of POWr.io. You can show the icon again by typing 'p + up-arrow'.
 
+    = Is POWr Social Media Icons Free? = Yes, the basic version of Social Media Icons is completely free!
 
-    = Why do you require me to sign up? =
-
-    Signing up is what allows us to track which plugins are yours, and allows you to edit them right in your page.
-
-
-    = Will my users see the settings icon in the corner of the Social Media Icons? =
-
-    No! You only see the settings icon because you own the plugins. To temporarily hide it, click on your page and then type 'p + down arrow' (the letter p followed by the down arrow). You can show the icon again by typing 'p + up-arrow'.
-
-
-    = I can't see the settings icon anymore, what happened? =
-
-    You are just logged out of POWr.io. You can show the icon again by typing 'p + up-arrow'.
-
-
-    = Is POWr Social Media Icons Free? =
-
-    Yes, the basic version of Social Media Icons is completely free!
-
-    = Why should I upgrade? =
-
-    Upgrading removes all POWr watermarks, speeds up widget loading speed, gets you premium support, and most importantly supports the creation of more great plugins!
+    = Why should I upgrade? = Upgrading removes all POWr watermarks, speeds up widget loading speed, gets you premium support, and most importantly supports the creation of more great plugins!
 
 
     == Screenshots ==
