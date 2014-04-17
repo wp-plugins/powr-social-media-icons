@@ -4,7 +4,7 @@
     Donate link: http://powr.io/
     Tags: Social media icons, social icons, free social media icons, facebook icon, flickr, foursquare, github, google plus, instagram, linkedin, pinterest, tumblr, twitter, youtube, custom facebook, custom twitter, social media images, social media icons widget, social media icons plugin, mobile responsive
     Requires at least: 3.0
-    Tested up to: 3.8
+    Tested up to: 3.9
     Stable tag: 1.0
     License: GPLv2 or later
     License URI: http://www.gnu.org/licenses/gpl-2.0.html
