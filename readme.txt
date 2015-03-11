@@ -22,7 +22,6 @@ First, download, install, and activate POWr Social Media Icons. Then drop the wi
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-social-media-icons-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
-
 = Free Features =
 * Easily create and add icons for Facebook, Twitter, Instagram, LinkedIn, Pinterest, YouTube, Yelp, Google+, Flickr, Tumblr, FourSquare, GitHub, and more!
 * Choose from expert-designed templates, or take control with custom colors, borders, backgrounds, and more.
@@ -31,9 +30,10 @@ First, download, install, and activate POWr Social Media Icons. Then drop the wi
 <br>
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-
+* Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 == Installation ==
 Download, install, and activate POWr Social Media Icons.
