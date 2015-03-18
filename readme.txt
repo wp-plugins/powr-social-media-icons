@@ -35,6 +35,7 @@ First, download, install, and activate POWr Social Media Icons. Then drop the wi
 * Support the development of other great plugins
 
 
+
 == Installation ==
 Download, install, and activate POWr Social Media Icons.
 <br>
