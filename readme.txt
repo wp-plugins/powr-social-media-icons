@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: Social media icons, social icons, free social media icons, facebook icon, google plus, custom facebook, custom twitter, social media images, social media icons widget, social media icons plugin, mobile responsive, social network, social media marketing, social media buttons, advertising, social links, responsive web design, easy, personalized, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive<br><br>Facebook, Twitter, Instagram, LinkedIn, Pinterest, YouTube, Yelp, Google+, Flickr, Tumblr, FourSquare, GitHub, About.me, Academia, AngelList, Blogspot, Dribble, Email, Houzz, Meetup, Reddit, RenRen, RSS Feeds, SoundCloud, Vimeo, Vine, Weibo, WeChat, Xing
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -28,6 +28,7 @@ First, download, install, and activate POWr Social Media Icons. Then drop the wi
 * Make your icons ’pop’ with custom hover effects and orientation. 
 * Mobile responsive design looks great on any device.
 <br>
+
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Enable plugin analytics to measure visitors and page views
